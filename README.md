@@ -1,4 +1,4 @@
-# my background
+# My Background
 # Mainly foucus on USB subsystem
 # product arch ARM+LINUX+QT
 ## hi3516+kernel4.9+qt4.8
